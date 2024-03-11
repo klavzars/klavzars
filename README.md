@@ -2,6 +2,7 @@
 <h3 align="center">A (somewhat) passionate front-end developer</h3>
 
 
+
 - 🔭 I’m currently working on **Ambitious Messenger**
 
 - 🌱 I’m currently learning **Angular, Redux**
