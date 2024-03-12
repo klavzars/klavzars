@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [Ambitious Messenger App]()
+- 🔭 I’m currently working on [Ambitious Messenger App](https://github.com/klavzars/ambitious-messenger-app)
 
 - 🌱 I’m currently learning **Angular, Redux**
 
