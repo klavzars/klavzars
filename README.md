@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
 <h3 align="center">A (somewhat) passionate web developer</h3>
 
-
-
-- 🔭 I’m currently working on [Ambitious Messenger App](https://github.com/klavzars/ambitious-messenger-app)
-
-- 🌱 I’m currently learning **Angular, Redux**
-
 - 📫 How to reach me [✉️](mailto:klavzar.simon@gmail.com)
 
 <h3 align="left">Socials:</h3>
